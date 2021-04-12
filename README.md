@@ -20,7 +20,7 @@ https://ibb.co/GTzRnks
 ### Links
 
 - Solution URL: https://github.com/linoxxx/-Frontend-Mentor---Profile-card-component-
-- Live Site URL: https://vercel.com/linoxxx/frontend-mentor-profile-card-component
+- Live Site URL: https://frontend-mentor-profile-card-component-lake.vercel.app/
 
 ## My process
 
